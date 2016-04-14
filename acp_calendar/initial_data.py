@@ -214,7 +214,3 @@ def get_holidays_list():
     return (holidays_6 + holidays_7 + holidays_8 + holidays_9 + holidays_10 + holidays_11 + holidays_12 + holidays_13
             + holidays_14 + holidays_15 + holidays_16)
 
-# Print for testing purposes only.
-print(get_holidays_list())
-
-
